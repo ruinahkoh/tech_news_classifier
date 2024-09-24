@@ -1,4 +1,7 @@
-misc/
-report/
+misc
+report
+data
 canini09a.pdf
 .DS_Store
+.gitignore
+api/config.py
