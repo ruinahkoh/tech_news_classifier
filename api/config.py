@@ -1,7 +1,0 @@
-BUCKET_NAME ='edm-dev-edmscraperbucket'
-DYNAMODB_TWEETS_TABLE ='dbs-edm-dev-tweets'
-DYNAMODB_ARTICLES_TABLE = 'dbs-edm-dev-articles'
-API_KEY = 'bdd54f17b810473a8efa7688dd84e3d0'
-# ELASTICSEARCH_HOST='https://search-es-edm-dev-articlesearch-rzf2e7rsw6uxrxperiknfho7ia.ap-southeast-1.es.amazonaws.com'
-# ELASRICSEARCH_INDEX = 'new_index'
-# NEWSLETTER_FUNC ='lmb-edm-dev-newsletter-emailer'
