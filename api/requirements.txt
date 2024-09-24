@@ -1,0 +1,7 @@
+Scrapy==2.2.0
+newspaper3k==0.2.8
+requests==2.24.0
+regex==2020.10.11
+lxml==4.5.1
+cryptography==3.3.2
+

@@ -1,0 +1,282 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.10)  29 APR 2022 00:17
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**ISyE6740_Project_template.tex
+(./ISyE6740_Project_template.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18>
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count187
+\Gm@cntv=\count188
+\c@Gm@tempcnt=\count189
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks16
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count190
+\l__pdf_internal_box=\box47
+)
+(./ISyE6740_Project_template.aux)
+\openout1 = `ISyE6740_Project_template.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+
+(/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count191
+\scratchdimen=\dimen149
+\scratchbox=\box48
+\nofMPsegments=\count192
+\nofMParguments=\count193
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count194
+\MPscratchDim=\dimen150
+\MPnumerator=\count195
+\makeMPintoPDFobject=\count196
+\everyMPtoPDFconversion=\toks18
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 16.
+
+Underfull \hbox (badness 1577) in paragraph at lines 18--18
+[]\OT1/cmr/m/n/10 Finding the hottest top-ics in
+ []
+
+<datasource.png, id=1, 1120.185pt x 322.20375pt>
+File: datasource.png Graphic file (type png)
+<use datasource.png>
+Package pdftex.def Info: datasource.png  used on input line 38.
+(pdftex.def)             Requested size: 422.77664pt x 121.60782pt.
+[1
+
+
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<weighted_tokens.png, id=11, 1367.1075pt x 140.525pt>
+File: weighted_tokens.png Graphic file (type png)
+<use weighted_tokens.png>
+Package pdftex.def Info: weighted_tokens.png  used on input line 59.
+(pdftex.def)             Requested size: 422.77664pt x 43.45721pt.
+
+[2 <./datasource.png> <./weighted_tokens.png>]
+<topic_dict.png, id=18, 401.5pt x 127.47626pt>
+File: topic_dict.png Graphic file (type png)
+<use topic_dict.png>
+Package pdftex.def Info: topic_dict.png  used on input line 69.
+(pdftex.def)             Requested size: 328.82707pt x 104.40865pt.
+ [3 <./topic_dict.png>]
+<lda.png, id=23, 1202.4925pt x 714.67pt>
+File: lda.png Graphic file (type png)
+<use lda.png>
+Package pdftex.def Info: lda.png  used on input line 85.
+(pdftex.def)             Requested size: 375.80544pt x 223.34473pt.
+<validation.png, id=24, 1371.1225pt x 357.335pt>
+File: validation.png Graphic file (type png)
+<use validation.png>
+Package pdftex.def Info: validation.png  used on input line 110.
+(pdftex.def)             Requested size: 422.77664pt x 110.18382pt.
+ [4 <./lda.png> <./validation.png>]
+<validation4.png, id=30, 1386.17876pt x 293.095pt>
+File: validation4.png Graphic file (type png)
+<use validation4.png>
+Package pdftex.def Info: validation4.png  used on input line 117.
+(pdftex.def)             Requested size: 422.77664pt x 89.3916pt.
+<wronglabel.png, id=31, 1370.11874pt x 401.5pt>
+File: wronglabel.png Graphic file (type png)
+<use wronglabel.png>
+Package pdftex.def Info: wronglabel.png  used on input line 122.
+(pdftex.def)             Requested size: 422.77664pt x 123.88782pt.
+
+Overfull \hbox (20.01437pt too wide) in paragraph at lines 124--125
+\OT1/cmr/m/n/10 gories. For the above ar-ti-cle, the al-go-rithm cor-rectly cla
+s-si-fied the ar-ti-cle un-der busi-ness/cloud/digitalisation
+ []
+
+<validation5.png, id=32, 1377.145pt x 383.4325pt>
+File: validation5.png Graphic file (type png)
+<use validation5.png>
+Package pdftex.def Info: validation5.png  used on input line 127.
+(pdftex.def)             Requested size: 422.77664pt x 117.71025pt.
+<validation6.png, id=33, 1385.175pt x 251.94125pt>
+File: validation6.png Graphic file (type png)
+<use validation6.png>
+Package pdftex.def Info: validation6.png  used on input line 131.
+(pdftex.def)             Requested size: 422.77664pt x 76.89386pt.
+<wrong.png, id=34, 1588.93625pt x 372.39125pt>
+File: wrong.png Graphic file (type png)
+<use wrong.png>
+Package pdftex.def Info: wrong.png  used on input line 137.
+(pdftex.def)             Requested size: 422.77664pt x 99.08096pt.
+[5 <./validation4.png> <./wronglabel.png> <./validation5.png> <./validation6.pn
+g>]
+<wrong2.png, id=42, 1601.985pt x 296.10625pt>
+File: wrong2.png Graphic file (type png)
+<use wrong2.png>
+Package pdftex.def Info: wrong2.png  used on input line 141.
+(pdftex.def)             Requested size: 422.77664pt x 78.14246pt.
+ [6 <./wrong.png> <./wrong2.png>]
+<coherencescore.png, id=48, 412.54124pt x 288.07625pt>
+File: coherencescore.png Graphic file (type png)
+<use coherencescore.png>
+Package pdftex.def Info: coherencescore.png  used on input line 156.
+(pdftex.def)             Requested size: 328.82707pt x 229.62172pt.
+ [7 <./coherencescore.png>]
+<perplexity.png, id=58, 469.755pt x 317.185pt>
+File: perplexity.png Graphic file (type png)
+<use perplexity.png>
+Package pdftex.def Info: perplexity.png  used on input line 170.
+(pdftex.def)             Requested size: 328.82707pt x 222.02797pt.
+ [8 <./perplexity.png>]
+<linecharts.png, id=66, 1017.8025pt x 601.24625pt>
+File: linecharts.png Graphic file (type png)
+<use linecharts.png>
+Package pdftex.def Info: linecharts.png  used on input line 180.
+(pdftex.def)             Requested size: 422.77664pt x 249.75107pt.
+
+Overfull \hbox (8.91254pt too wide) in paragraph at lines 186--187
+\OT1/cmr/m/n/10 in the pe-riod of 5 Apr to 10 Apr, ar-ti-fi-cial in-tel-li-genc
+e su-perceded gov-ern-ment/cybersecurity/digitalisation
+ []
+
+[9 <./linecharts.png>] [10] [11] (./ISyE6740_Project_template.aux) ) 
+Here is how much of TeX's memory you used:
+ 1785 strings out of 478994
+ 27056 string characters out of 5858184
+ 327588 words of memory out of 5000000
+ 19304 multiletter control sequences out of 15000+600000
+ 404343 words of font info for 30 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 68i,8n,74p,1168b,263s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local
+/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/
+texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/t
+exlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
+xlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
+live/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texli
+ve/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive
+/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2
+021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2021
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2021/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on ISyE6740_Project_template.pdf (11 pages, 2229134 bytes).
+PDF statistics:
+ 113 PDF objects out of 1000 (max. 8388607)
+ 60 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+
